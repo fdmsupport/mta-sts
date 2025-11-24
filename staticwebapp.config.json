@@ -1,0 +1,10 @@
+{
+  "routes": [
+    {
+      "route": "/.well-known/*",
+      "headers": {
+        "content-type": "text/plain"
+      }
+    }
+  ]
+}
